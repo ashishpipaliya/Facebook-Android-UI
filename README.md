@@ -1,17 +1,22 @@
 # Facebook UI using Flutter
 
-
-
 ### 🧰 Built with
 
 - **Flutter** : UI Toolkit by Google
+___
+### :heart: Screenshots
+
+![one](https://user-images.githubusercontent.com/32923529/91587264-25ed2c80-e974-11ea-88dd-bbd8ac5485b3.png)|||![two](https://user-images.githubusercontent.com/32923529/91587276-2ab1e080-e974-11ea-9f0b-be688202df2e.png)
+![three](https://user-images.githubusercontent.com/32923529/91587286-2d143a80-e974-11ea-9b46-0c571f0762f7.png)
+![four](https://user-images.githubusercontent.com/32923529/91587289-2dacd100-e974-11ea-8174-372eb56d2fcc.png)
 
 ___
+
 :heart: **Lightweight**
 :zap: **Easy to understand**
 :rainbow: **Support for App and Web**
 
-<i class="fa fa-youtube-play fa-spin fa-1x" style="color: red"></i> Special Thanks to  [Marcus Ng](https://www.youtube.com/watch?v=HvLb5gdUfDE) For Video Tutorial
+ Special Thanks to  [Marcus Ng](https://www.youtube.com/watch?v=HvLb5gdUfDE) For Video Tutorial
 ___
 
 
