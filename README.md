@@ -1,6 +1,19 @@
 # Facebook UI using Flutter
 
-A new Flutter project.
+
+
+### 🧰 Built with
+
+- **Flutter** : UI Toolkit by Google
+
+___
+:heart: **Lightweight**
+:zap: **Easy to understand**
+:rainbow: **Support for App and Web**
+
+<i class="fa fa-youtube-play fa-spin fa-1x" style="color: red"></i> Special Thanks to  [Marcus Ng](https://www.youtube.com/watch?v=HvLb5gdUfDE) For Video Tutorial
+___
+
 
 ## Getting Started
 
